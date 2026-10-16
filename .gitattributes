@@ -1,0 +1,2 @@
+Gobboree-1.0.0-beta.90-linux-x86_64.AppImage filter=lfs diff=lfs merge=lfs -text
+Gobboree-1.0.0-beta.90-linux-x86_64.AppImage.zip filter=lfs diff=lfs merge=lfs -text
